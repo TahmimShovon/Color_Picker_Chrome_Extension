@@ -1,6 +1,6 @@
 # Color Picker Chrome Extension README
 
-(/icons/icon32.png) 
+(icons/icon32.png) 
 
 Welcome to the **Color Picker** Chrome extension! This extension is designed to provide you with a convenient and user-friendly way to pick color values for your design projects using HTML, CSS, and JavaScript. Whether you're a web designer, graphic artist, or developer, Color Picker will simplify your color selection process.
 
